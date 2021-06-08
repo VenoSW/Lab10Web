@@ -11,11 +11,11 @@ Universitas Pelita Bangsa
 ![LANGKAH 1](https://user-images.githubusercontent.com/22215113/120921755-5aee9280-c6ef-11eb-9764-06d46fef4208.png)
 
 ## LANGKAH 2
-### Buat file `lab10_php_OOP` pada root directory web server `(d:\xampp\htdocs)`
+### Buat file `lab10_php_oop` pada root directory web server `(d:\xampp\htdocs)`
 ![LANGKAH 2](https://user-images.githubusercontent.com/22215113/120921774-76f23400-c6ef-11eb-9e73-84d0b2807b2c.png)
 
 ## LANGKAH 3
-### Buat file baru dengan nama `mobil.php` pada folder `(d:\xampp\htdocs\lab9_php_modular)`.
+### Buat file baru dengan nama `mobil.php` pada folder `(d:\xampp\htdocs\lab10_php_oop)`.
 * Ini adalah contoh PHP OOP sederhana, membuat Class dan memanggil Class
 
 * Coding
@@ -72,7 +72,7 @@ $b->tampilWarna();
 ![LANGKAH 3 hasil](https://user-images.githubusercontent.com/22215113/120921832-dd775200-c6ef-11eb-9536-34383c409980.png)
 
 ## LANGKAH 4
-### Buat file baru dengan nama `form.php` pada folder `(d:\xampp\htdocs\lab9_php_modular)`.
+### Buat file baru dengan nama `form.php` pada folder `(d:\xampp\htdocs\lab10_php_oop)`.
 * form.php ini untuk Class
 
 * Coding
@@ -123,7 +123,7 @@ class Form
 ![LANGKAH 4 coding](https://user-images.githubusercontent.com/22215113/120921883-4068e900-c6f0-11eb-8d46-b6196491d6f8.png)
 
 ## LANGKAH 5
-### Buat file baru dengan nama `form_input.php` pada folder `(d:\xampp\htdocs\lab9_php_modular)`.
+### Buat file baru dengan nama `form_input.php` pada folder `(lab10_php_oop)`.
 * form_input.php ini untuk memanggil Class yg sudah dibuat tadi.
 
 * Coding
